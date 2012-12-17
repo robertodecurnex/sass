@@ -1,4 +1,5 @@
 # Sass
+![Travis CI Status](https://travis-ci.org/robertodecurnex/sass.png)
 
 **Sass makes CSS fun again**. Sass is an extension of CSS3,
 adding nested rules, variables, mixins, selector inheritance, and more.
